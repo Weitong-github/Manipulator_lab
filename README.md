@@ -1,1 +1,1 @@
-# Manipulator_lab
+# MANIP-LAB
